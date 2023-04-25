@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm R. Feyza</h1>
-<h3 align="center">Backend Developer</h3>
+<h3>Hi 👋, I'm R. Feyza</h3>
+<h3>Backend Developer</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.feyza_yayci/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feyza-yayci/) 
