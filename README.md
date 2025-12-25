@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=R.%20Feyza%20Yaycı&fontSize=60&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&lines=Backend+Developer;Node.js+%26+PHP;Infrastructure+Explorer;Learning+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&lines=Backend+Developer;Node.js+%26+PHP;Infrastructure+Explorer;Machine+Learning" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/feyza-yayci/">
